@@ -8,3 +8,4 @@
 * [QBitTorrent](https://www.qbittorrent.org/) as the best secure torrent client
 * [Playnite](https://playnite.link/) Alternative to Steam/GOG Galaxy to organize your games and emulators
 * [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) to make the windows taskbar transparent and blurred
+* [Caprine](https://github.com/sindresorhus/caprine) as a Facebook Messenger frontend
